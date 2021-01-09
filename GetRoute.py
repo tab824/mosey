@@ -3,9 +3,9 @@ import numpy as np
 import pandas as pd
 import json
 import os
-import matplotlib.pyplot as plt
-from ipywidgets import FloatProgress
-from IPython.display import display
+# import matplotlib.pyplot as plt
+# from ipywidgets import FloatProgress
+# from IPython.display import display
 from osgeo import gdal, ogr
 
 # 
