@@ -3,7 +3,7 @@ find interesting walks in London
 
 # Requirements
 - [osmnx](https://github.com/gboeing/osmnx)
-- [networkx] (https://networkx.org/)
+- [networkx](https://networkx.org/)
 - numpy
 - pandas
 - plotly
